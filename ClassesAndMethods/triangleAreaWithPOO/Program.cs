@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Globalization;
 
+
 namespace triangleAreaWithPOO
 {
+
+    
     public class Program
     {
         public static void Main(string[] args)
@@ -18,9 +21,7 @@ namespace triangleAreaWithPOO
             x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double pX = (x.A + x.B + x.C) / 2;
-
-            double triangleXArea = Math.Sqrt(pX * (pX - x.A) * (pX - x.B) * (pX - x.C));
+            double triangleX = x.Area();
 
 
             Console.WriteLine("Entre com as medidas do triângulo Y:");
@@ -28,15 +29,13 @@ namespace triangleAreaWithPOO
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double pY = (y.A + y.B + y.C) / 2;
-
-            double triangleYArea = Math.Sqrt(pY * (pY - y.A) * (pY - y.B) * (pY - y.C));
+            double triangleY = y.Area();
 
 
-            Console.WriteLine("Área de X: " + triangleXArea.ToString("F4"), CultureInfo.InvariantCulture);
-            Console.WriteLine("Área de Y: " + triangleYArea.ToString("F4"), CultureInfo.InvariantCulture);
+            Console.WriteLine("Área de X: " + triangleX.ToString("F4"), CultureInfo.InvariantCulture);
+            Console.WriteLine("Área de Y: " + triangleY.ToString("F4"), CultureInfo.InvariantCulture);
 
-            if (triangleXArea > triangleYArea)
+            if (triangleX > triangleY)
             {
                 Console.WriteLine("Maior área: X");
             }
