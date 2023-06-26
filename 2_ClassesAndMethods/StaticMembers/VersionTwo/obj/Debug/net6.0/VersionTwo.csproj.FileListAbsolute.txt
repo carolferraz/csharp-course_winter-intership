@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\bin\Debug\net6.0\VersionTwo.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\bin\Debug\net6.0\VersionTwo.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\bin\Debug\net6.0\VersionTwo.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\bin\Debug\net6.0\VersionTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\bin\Debug\net6.0\VersionTwo.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\refint\VersionTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\VersionTwo.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\StaticMembers\versiontwo\obj\Debug\net6.0\ref\VersionTwo.dll

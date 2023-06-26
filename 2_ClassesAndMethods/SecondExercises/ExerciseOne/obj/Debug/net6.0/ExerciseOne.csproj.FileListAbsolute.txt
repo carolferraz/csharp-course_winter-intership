@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\refint\ExerciseOne.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseOne\obj\Debug\net6.0\ref\ExerciseOne.dll

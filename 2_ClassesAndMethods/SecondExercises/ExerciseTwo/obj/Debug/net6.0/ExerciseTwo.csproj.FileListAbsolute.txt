@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\refint\ExerciseTwo.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseTwo\obj\Debug\net6.0\ref\ExerciseTwo.dll

@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\refint\ExerciseThree.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\ClassesAndMethods\SecondExercises\ExerciseThree\obj\Debug\net6.0\ref\ExerciseThree.dll
