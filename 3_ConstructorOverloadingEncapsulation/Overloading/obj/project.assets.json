@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj",
-      "projectName": "Constructors",
-      "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj",
+      "projectUniqueName": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Overloading\\Overloading.csproj",
+      "projectName": "Overloading",
+      "projectPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Overloading\\Overloading.csproj",
       "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\obj\\",
+      "outputPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Overloading\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

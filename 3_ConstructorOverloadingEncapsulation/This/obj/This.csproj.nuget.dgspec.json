@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj": {}
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\This\\This.csproj": {}
   },
   "projects": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj": {
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\This\\This.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj",
-        "projectName": "Constructors",
-        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\Constructors.csproj",
+        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\This\\This.csproj",
+        "projectName": "This",
+        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\This\\This.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Constructors\\obj\\",
+        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\This\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

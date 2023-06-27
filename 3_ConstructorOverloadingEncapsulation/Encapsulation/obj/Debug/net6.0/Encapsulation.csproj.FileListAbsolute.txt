@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\3_ConstructorOverloadingEncapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
