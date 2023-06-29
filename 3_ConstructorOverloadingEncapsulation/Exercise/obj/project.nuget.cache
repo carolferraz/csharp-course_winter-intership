@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWuwYfojZyHbb13uXW3HcLCNFFLasYPd3HYAoIynLfr4cSBzyT9H6kr80cd88suvgBVDaw/TuNDxH+2V32mPdw==",
+  "dgSpecHash": "tIywt8zI0HnwcskF+vKbgHyVp+2XuLODMgfRdrKELetio54kW4c+MXOLauQtiVs92dMz0LD36VfKJOxR9YJlFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
+  "projectFilePath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

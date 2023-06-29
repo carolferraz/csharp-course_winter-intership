@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\bin\Debug\net6.0\ExerciseLists.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\bin\Debug\net6.0\ExerciseLists.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\bin\Debug\net6.0\ExerciseLists.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\bin\Debug\net6.0\ExerciseLists.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\bin\Debug\net6.0\ExerciseLists.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\refint\ExerciseLists.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ExerciseLists.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ExerciseLists\obj\Debug\net6.0\ref\ExerciseLists.dll

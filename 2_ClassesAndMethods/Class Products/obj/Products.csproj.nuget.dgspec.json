@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\ClassesAndMethods\\Class Products\\Products.csproj": {}
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\2_ClassesAndMethods\\Class Products\\Products.csproj": {}
   },
   "projects": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\ClassesAndMethods\\Class Products\\Products.csproj": {
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\2_ClassesAndMethods\\Class Products\\Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\ClassesAndMethods\\Class Products\\Products.csproj",
+        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\2_ClassesAndMethods\\Class Products\\Products.csproj",
         "projectName": "Products",
-        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\ClassesAndMethods\\Class Products\\Products.csproj",
+        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\2_ClassesAndMethods\\Class Products\\Products.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\ClassesAndMethods\\Class Products\\obj\\",
+        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\2_ClassesAndMethods\\Class Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

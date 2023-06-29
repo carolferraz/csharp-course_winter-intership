@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\LogicModule\\Exercises\\ForStructure\\ForStructure.csproj": {}
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\1_LogicModule\\Exercises\\ForStructure\\ForStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\LogicModule\\Exercises\\ForStructure\\ForStructure.csproj": {
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\1_LogicModule\\Exercises\\ForStructure\\ForStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\LogicModule\\Exercises\\ForStructure\\ForStructure.csproj",
+        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\1_LogicModule\\Exercises\\ForStructure\\ForStructure.csproj",
         "projectName": "ForStructure",
-        "projectPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\LogicModule\\Exercises\\ForStructure\\ForStructure.csproj",
+        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\1_LogicModule\\Exercises\\ForStructure\\ForStructure.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\LogicModule\\Exercises\\ForStructure\\obj\\",
+        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\1_LogicModule\\Exercises\\ForStructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

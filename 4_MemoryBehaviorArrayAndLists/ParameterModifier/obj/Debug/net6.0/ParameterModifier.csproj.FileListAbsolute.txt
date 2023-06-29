@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\bin\Debug\net6.0\ParameterModifier.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\bin\Debug\net6.0\ParameterModifier.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\bin\Debug\net6.0\ParameterModifier.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\bin\Debug\net6.0\ParameterModifier.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\bin\Debug\net6.0\ParameterModifier.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\refint\ParameterModifier.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ParameterModifier.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\ParameterModifier\obj\Debug\net6.0\ref\ParameterModifier.dll

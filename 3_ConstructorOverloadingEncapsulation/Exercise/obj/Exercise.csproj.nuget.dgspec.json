@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj": {}
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj": {
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
+        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\Exercise.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\obj\\",
+        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\3_ConstructorOverloadingEncapsulation\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
