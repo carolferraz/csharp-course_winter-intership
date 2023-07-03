@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\bin\Debug\net6.0\Matrix.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\obj\Debug\net6.0\ref\Matrix.dll

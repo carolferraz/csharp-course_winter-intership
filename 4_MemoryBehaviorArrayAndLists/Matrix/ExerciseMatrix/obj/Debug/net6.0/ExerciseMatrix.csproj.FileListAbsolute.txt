@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\bin\Debug\net6.0\ExerciseMatrix.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\bin\Debug\net6.0\ExerciseMatrix.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\bin\Debug\net6.0\ExerciseMatrix.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\bin\Debug\net6.0\ExerciseMatrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\bin\Debug\net6.0\ExerciseMatrix.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\refint\ExerciseMatrix.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ExerciseMatrix.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\4_MemoryBehaviorArrayAndLists\Matrix\ExerciseMatrix\obj\Debug\net6.0\ref\ExerciseMatrix.dll
