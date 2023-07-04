@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\bin\Debug\net6.0\EnumerationAndComposition.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\bin\Debug\net6.0\EnumerationAndComposition.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\bin\Debug\net6.0\EnumerationAndComposition.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\bin\Debug\net6.0\EnumerationAndComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\bin\Debug\net6.0\EnumerationAndComposition.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\refint\EnumerationAndComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\EnumerationAndComposition.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\obj\Debug\net6.0\ref\EnumerationAndComposition.dll
