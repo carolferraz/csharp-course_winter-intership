@@ -56,7 +56,7 @@ namespace ExerciseEnumeration
             
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Department: " + worker.Department.Name); //Remember to access the information in and attached class, we need to call the props of the class attached, and the props we need to access.
-            Console.WriteLine("Income: " + worker.Income(year, month));
+            Console.WriteLine("Income for "+ monthAndYear + ": " + worker.Income(year, month).ToString("F2"));
 
         }
     }

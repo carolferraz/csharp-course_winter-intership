@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\bin\Debug\net6.0\ExerciseStringBuilder.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\bin\Debug\net6.0\ExerciseStringBuilder.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\bin\Debug\net6.0\ExerciseStringBuilder.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\bin\Debug\net6.0\ExerciseStringBuilder.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\bin\Debug\net6.0\ExerciseStringBuilder.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\refint\ExerciseStringBuilder.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ExerciseStringBuilder.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerationAndComposition\ExerciseStringBuilder\obj\Debug\net6.0\ref\ExerciseStringBuilder.dll
