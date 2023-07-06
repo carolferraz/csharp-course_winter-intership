@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\bin\Debug\net6.0\UpcastingDownCasting.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\bin\Debug\net6.0\UpcastingDownCasting.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\bin\Debug\net6.0\UpcastingDownCasting.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\bin\Debug\net6.0\UpcastingDownCasting.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\bin\Debug\net6.0\UpcastingDownCasting.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\refint\UpcastingDownCasting.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\UpcastingDownCasting.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\UpcastingDownCasting\obj\Debug\net6.0\ref\UpcastingDownCasting.dll

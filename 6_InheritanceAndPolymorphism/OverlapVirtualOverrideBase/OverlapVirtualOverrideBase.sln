@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.001.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverlapVirtualOverrideBase", "OverlapVirtualOverrideBase.csproj", "{EB1EF25F-A9A5-48AE-9A9B-9BB75BE63FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1EF25F-A9A5-48AE-9A9B-9BB75BE63FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1EF25F-A9A5-48AE-9A9B-9BB75BE63FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1EF25F-A9A5-48AE-9A9B-9BB75BE63FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1EF25F-A9A5-48AE-9A9B-9BB75BE63FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793DACE7-A5C9-44CD-8EC0-B96CBD0860AB}
+	EndGlobalSection
+EndGlobal

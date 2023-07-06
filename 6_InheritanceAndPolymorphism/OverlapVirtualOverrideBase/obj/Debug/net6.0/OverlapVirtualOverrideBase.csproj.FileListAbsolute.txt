@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\bin\Debug\net6.0\OverlapVirtualOverrideBase.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\bin\Debug\net6.0\OverlapVirtualOverrideBase.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\bin\Debug\net6.0\OverlapVirtualOverrideBase.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\bin\Debug\net6.0\OverlapVirtualOverrideBase.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\bin\Debug\net6.0\OverlapVirtualOverrideBase.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\refint\OverlapVirtualOverrideBase.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\OverlapVirtualOverrideBase.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\OverlapVirtualOverrideBase\obj\Debug\net6.0\ref\OverlapVirtualOverrideBase.dll

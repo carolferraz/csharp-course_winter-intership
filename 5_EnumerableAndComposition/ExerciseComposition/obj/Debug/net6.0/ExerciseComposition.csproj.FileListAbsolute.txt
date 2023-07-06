@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\bin\Debug\net6.0\ExerciseComposition.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\bin\Debug\net6.0\ExerciseComposition.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\bin\Debug\net6.0\ExerciseComposition.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\bin\Debug\net6.0\ExerciseComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\bin\Debug\net6.0\ExerciseComposition.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\refint\ExerciseComposition.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ExerciseComposition.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\5_EnumerableAndComposition\ExerciseComposition\obj\Debug\net6.0\ref\ExerciseComposition.dll
