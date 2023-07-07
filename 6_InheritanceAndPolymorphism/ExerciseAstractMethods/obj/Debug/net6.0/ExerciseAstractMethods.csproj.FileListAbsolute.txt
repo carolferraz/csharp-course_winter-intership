@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\bin\Debug\net6.0\ExerciseAstractMethods.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\bin\Debug\net6.0\ExerciseAstractMethods.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\bin\Debug\net6.0\ExerciseAstractMethods.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\bin\Debug\net6.0\ExerciseAstractMethods.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\bin\Debug\net6.0\ExerciseAstractMethods.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\refint\ExerciseAstractMethods.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ExerciseAstractMethods.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAstractMethods\obj\Debug\net6.0\ref\ExerciseAstractMethods.dll
