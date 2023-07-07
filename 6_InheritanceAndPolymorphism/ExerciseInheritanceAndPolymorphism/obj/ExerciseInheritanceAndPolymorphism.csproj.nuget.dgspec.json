@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\OverlapVirtualOverrideBase\\OverlapVirtualOverrideBase.csproj": {}
+    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism.csproj": {}
   },
   "projects": {
-    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\OverlapVirtualOverrideBase\\OverlapVirtualOverrideBase.csproj": {
+    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\OverlapVirtualOverrideBase\\OverlapVirtualOverrideBase.csproj",
-        "projectName": "OverlapVirtualOverrideBase",
-        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\OverlapVirtualOverrideBase\\OverlapVirtualOverrideBase.csproj",
+        "projectUniqueName": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism.csproj",
+        "projectName": "ExerciseInheritanceAndPolymorphism",
+        "projectPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\OverlapVirtualOverrideBase\\obj\\",
+        "outputPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\6_InheritanceAndPolymorphism\\ExerciseInheritanceAndPolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
