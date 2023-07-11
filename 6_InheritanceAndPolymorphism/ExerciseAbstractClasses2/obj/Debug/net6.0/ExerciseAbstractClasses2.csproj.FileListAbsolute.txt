@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\bin\Debug\net6.0\ExerciseAbstractClasses2.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\bin\Debug\net6.0\ExerciseAbstractClasses2.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\bin\Debug\net6.0\ExerciseAbstractClasses2.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\bin\Debug\net6.0\ExerciseAbstractClasses2.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\bin\Debug\net6.0\ExerciseAbstractClasses2.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\refint\ExerciseAbstractClasses2.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ExerciseAbstractClasses2.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\6_InheritanceAndPolymorphism\ExerciseAbstractClasses2\obj\Debug\net6.0\ref\ExerciseAbstractClasses2.dll

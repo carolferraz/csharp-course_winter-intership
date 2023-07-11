@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\bin\Debug\net6.0\ExerciseExceptionHandling.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\bin\Debug\net6.0\ExerciseExceptionHandling.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\bin\Debug\net6.0\ExerciseExceptionHandling.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\bin\Debug\net6.0\ExerciseExceptionHandling.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\bin\Debug\net6.0\ExerciseExceptionHandling.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\refint\ExerciseExceptionHandling.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ExerciseExceptionHandling.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\7_ExceptionHandling\ExerciseExceptionHandling\obj\Debug\net6.0\ref\ExerciseExceptionHandling.dll
