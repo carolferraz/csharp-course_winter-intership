@@ -8,8 +8,6 @@ namespace ExerciseExceptionHandling
     {
         static void Main(string[] args)
         {
-            try
-            {
 
             Console.WriteLine("Enter account data");
             Console.Write("Number: ");
@@ -27,6 +25,8 @@ namespace ExerciseExceptionHandling
             Console.Write("Enter amount for withdraw: ");
             double withdrawalAmount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            try
+            {
             account.Withdraw(withdrawalAmount);
 
             Console.Write("New balance: " + account.Balance.ToString("F2", CultureInfo.InvariantCulture));

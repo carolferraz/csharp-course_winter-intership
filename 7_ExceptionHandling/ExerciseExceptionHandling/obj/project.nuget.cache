@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3PttYNcHdQs8bKK2osIV2QCl6+hkbMILH/auUOAcOOrMEhOu4kYGMZpX0agq1KxlDQbMTOnewvhC67mJHlgcwQ==",
+  "dgSpecHash": "c73POGMf5dV9zv7RZ97NvmeMeRnEwDV5Iqj373fSsBx9KcO+NRW9evAT2qZKtuaE5e9fVCnJ1XXBLKWA1lrqHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
+  "projectFilePath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

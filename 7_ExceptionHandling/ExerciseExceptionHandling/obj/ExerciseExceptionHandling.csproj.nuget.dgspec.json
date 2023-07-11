@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj": {}
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj": {
+    "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
+        "projectUniqueName": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
         "projectName": "ExerciseExceptionHandling",
-        "projectPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
+        "projectPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\ExerciseExceptionHandling.csproj",
         "packagesPath": "C:\\Users\\caroline.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\obj\\",
+        "outputPath": "c:\\Users\\caroline.ferraz\\Documents\\CSharp_CursoCompleto\\7_ExceptionHandling\\ExerciseExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caroline.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

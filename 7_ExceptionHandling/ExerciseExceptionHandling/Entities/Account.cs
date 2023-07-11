@@ -35,10 +35,9 @@ namespace ExerciseExceptionHandling.Entities
             {
                 throw new DomainExceptions("Not enough balance");
             }
-            if (WithdrawLimit <= Balance)
-            {
-                Balance -= amount;
-            }
+
+            Balance -= amount;
+
         }
     }
 }
