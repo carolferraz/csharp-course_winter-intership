@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\bin\Debug\net6.0\ExerciseWithInterface.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\bin\Debug\net6.0\ExerciseWithInterface.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\bin\Debug\net6.0\ExerciseWithInterface.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\bin\Debug\net6.0\ExerciseWithInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\bin\Debug\net6.0\ExerciseWithInterface.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\refint\ExerciseWithInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ExerciseWithInterface.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithInterface\obj\Debug\net6.0\ref\ExerciseWithInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\bin\Debug\net6.0\FileFileInfoAndIOException.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\bin\Debug\net6.0\FileFileInfoAndIOException.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\bin\Debug\net6.0\FileFileInfoAndIOException.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\bin\Debug\net6.0\FileFileInfoAndIOException.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\bin\Debug\net6.0\FileFileInfoAndIOException.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\refint\FileFileInfoAndIOException.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\FileFileInfoAndIOException.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\FileFileInfoAndIOException\obj\Debug\net6.0\ref\FileFileInfoAndIOException.dll

@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\bin\Debug\net6.0\UsingBlock.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\bin\Debug\net6.0\UsingBlock.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\bin\Debug\net6.0\UsingBlock.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\bin\Debug\net6.0\UsingBlock.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\bin\Debug\net6.0\UsingBlock.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\refint\UsingBlock.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\UsingBlock.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\8_WorkingWithFiles\UsingBlock\obj\Debug\net6.0\ref\UsingBlock.dll

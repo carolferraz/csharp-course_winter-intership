@@ -1,0 +1,15 @@
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\bin\Debug\net6.0\ExerciseWithoutInterface.exe
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\bin\Debug\net6.0\ExerciseWithoutInterface.deps.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\bin\Debug\net6.0\ExerciseWithoutInterface.runtimeconfig.json
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\bin\Debug\net6.0\ExerciseWithoutInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\bin\Debug\net6.0\ExerciseWithoutInterface.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.csproj.AssemblyReference.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.AssemblyInfoInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.AssemblyInfo.cs
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.csproj.CoreCompileInputs.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\refint\ExerciseWithoutInterface.dll
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.pdb
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ExerciseWithoutInterface.genruntimeconfig.cache
+C:\Users\caroline.ferraz\Documents\CSharp_CursoCompleto\9_Interfaces\ExerciseWithoutInterface\obj\Debug\net6.0\ref\ExerciseWithoutInterface.dll
